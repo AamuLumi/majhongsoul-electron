@@ -19,6 +19,7 @@
     "electron": "^16.0.4"
   },
   "dependencies": {
+    "discord-auto-rpc": "^1.0.17",
     "electron-squirrel-startup": "^1.0.0"
   },
   "config": {
